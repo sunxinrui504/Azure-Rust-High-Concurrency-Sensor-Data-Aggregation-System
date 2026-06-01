@@ -1,0 +1,6 @@
+Data loss rate (%): 36.1708
+Throughput (TPS): 941.35
+Average latency (ms): 0.0000
+Thread Conflicts: 0
+Sensor overflow events: 33080
+Sensor lost readings: 7058

@@ -1,0 +1,12 @@
+{
+  "run_duration_s": 30,
+  "buffer_capacity": 65536,
+  "reader_sleep_us": 2000,
+  "sensors": 2,
+  "sensor_overwrites": 0,
+  "buffer_high_watermark": 10,
+  "push_wait_count": 0,
+  "pop_wait_count": 23456,
+  "p95_lag_us": 11,
+  "note": "Synthetic micro-bench (2 logical sensors); use full gateway for course demo."
+}
